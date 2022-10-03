@@ -36,6 +36,7 @@ Tasks
 =====
 * `dependencyUpdates`: show a list of project dependencies that can be updated,
 * `dependencyUpdatesReport`: writes a list of project dependencies to a file.
+* `dependencyUpdatesCsvReport`: writes a list of project dependencies to a CSV file.
 
 Settings
 ========
